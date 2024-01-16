@@ -19,16 +19,17 @@ Sou um entusiasta de programação, no início da carreira, buscando aprender e 
 
 - **Desktop:**
   - WPF (XAML)
+  - Windows Forms
 
 ## Projetos Destacados
 
-### [Cotacao_Dolar]
+### Cotacao_Dolar
 Um projeto bem simples para acompanhar o valor do Dolar feito em Windows Forms.
 
-### [Calculadora-em-JavaScript]
+### Calculadora-em-JavaScript
 Uma calculadora feita por mim em JavaScript.
 
-### [FormularioWPF]
+### FormularioWPF
 Formulário em WPF para aprendizado.
 
 ## Estatísticas do GitHub
@@ -37,9 +38,9 @@ Formulário em WPF para aprendizado.
 
 ## Entre em Contato
 
-- 📧 Email: [ryan.t.temoteo2005@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/ryan-temoteo-brito-258304296]
-- 🐦 Twitter: [https://twitter.com/soldi3ryan]
+- 📧 Email: ryan.t.temoteo2005@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/ryan-temoteo-brito-258304296
+- 🐦 Twitter: https://twitter.com/soldi3ryan
 
 ## Contribuições
 
