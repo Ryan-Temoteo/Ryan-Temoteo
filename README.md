@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um entusiasta de programação, no início da carreira, buscando aprender e contribuir para a comunidade de desenvolvimento. Meu foco atual está em desenvolvimento front-end e back-end, utilizando habilidades em HTML, CSS, JavaScript, C# e XAML.
+Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaixonada por tecnologia. Estou no início da carreira como [Sua Posição], buscando aprender e contribuir para a comunidade de desenvolvimento. Meu foco atual está em desenvolvimento front-end e back-end, utilizando habilidades em HTML, CSS, JavaScript, C# e XAML.
 
 - 💼 Início da carreira como Desenvolvedor Júnior
 
@@ -21,20 +21,9 @@ Sou um entusiasta de programação, no início da carreira, buscando aprender e 
   - WPF (XAML)
   - Windows Forms
 
-## Projetos Destacados
-
-### Cotacao_Dolar
-Um projeto bem simples para acompanhar o valor do Dolar feito em Windows Forms.
-
-### Calculadora-em-JavaScript
-Uma calculadora feita por mim em JavaScript.
-
-### FormularioWPF
-Formulário em WPF para aprendizado.
-
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ryan-Temoteo&show_icons=true&count_private=true&hide=contribs,prs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ## Entre em Contato
 
@@ -46,4 +35,4 @@ Formulário em WPF para aprendizado.
 
 Sinta-se à vontade para explorar meus projetos e contribuir se encontrar algo interessante. Como estou no início da carreira, estou aberto a feedbacks e oportunidades de aprendizado.
 
-Obrigado por visitar meu perfil! 😊
+Obrigado por visitar meu perfil!
