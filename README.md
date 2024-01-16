@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Ryan
+# Olá! Eu sou o Ryan
 
 ## Sobre Mim
 
@@ -34,7 +34,7 @@ Formulário em WPF para aprendizado.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=contribs,prs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ryan-Temoteo&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## Entre em Contato
 
