@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaixonada por tecnologia. Estou no início da carreira como [Sua Posição], buscando aprender e contribuir para a comunidade de desenvolvimento. Meu foco atual está em desenvolvimento front-end e back-end, utilizando habilidades em HTML, CSS, JavaScript, C# e XAML.
+Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaixonada por tecnologia. Estou no início da carreira como Dev Júnior, buscando aprender e contribuir para a comunidade de desenvolvimento. Meu foco atual está em desenvolvimento front-end e back-end, utilizando habilidades em HTML, CSS, JavaScript, C# e XAML.
 
 - 💼 Início da carreira como Desenvolvedor Júnior
 
