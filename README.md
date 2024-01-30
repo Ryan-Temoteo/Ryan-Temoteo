@@ -29,7 +29,6 @@ Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaix
 
 - 📧 Email: ryan.t.temoteo2005@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/ryan-temoteo-brito-258304296
-- 🐦 Twitter: https://twitter.com/soldi3ryan
 
 ## Contribuições
 
