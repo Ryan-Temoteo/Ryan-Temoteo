@@ -25,6 +25,10 @@ Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaix
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ryan-Temoteo&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
+## Linguagens Mais Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Temoteo&layout=compact&theme=dark)](https://github.com/Ryan-Temoteo)
+
 ## Entre em Contato
 
 - 📧 Email: ryan.t.temoteo2005@gmail.com
