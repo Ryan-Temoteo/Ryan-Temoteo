@@ -9,17 +9,17 @@ Sou apenas uma pessoa curiosa que gosta de entender tudo ao meu redor e é apaix
 ## Habilidades
 
 - **Front-End:**
-  - HTML
-  - CSS
-  - JavaScript
+  - HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png)
+  - CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png)
+  - JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png)
 
 - **Back-End:**
-  - C#
+  - C# ![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/64px-C_Sharp_logo.svg.png)
+  - EntityFramework
   - ASP.NET
 
 - **Desktop:**
   - WPF (XAML)
-  - Windows Forms
 
 ## Estatísticas do GitHub
 
